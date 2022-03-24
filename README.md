@@ -1,6 +1,6 @@
 # reservamos
-prueba tecnica de reservamos
-correr el proyecto:
+# prueba tecnica de reservamos
+# correr el proyecto:
   npm install 
   cd ios
   pod install
