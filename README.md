@@ -6,3 +6,4 @@ correr el proyecto:
   pod install
   cd ..
   npx react-native run-android ó npx react-native run-ios
+  
